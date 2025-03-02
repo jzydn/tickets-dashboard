@@ -4,7 +4,7 @@
   </div>
 
   <div style="padding-left: 10px">
-    <span class="guild-name">Invite to your server</span>
+    <span class="guild-name">Do not invite</span>
   </div>
 </div>
 
